@@ -4,7 +4,7 @@
 
 ## 跑步
 
-![](https://github.com/XmchxUp/running_page/blob/master/assets/year_2024.svg)
+![](https://github.com/XmchxUp/running_page/blob/master/assets/github_2024.svg)
 
 ## 我的 GitHub
 <img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=xmchxup&show_icons=true&&&hide_title=true&theme=radical" />
